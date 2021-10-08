@@ -6,7 +6,7 @@ I'm an Electronics and Communication graduate, now pursuing Full-Stack Web Devel
 
 ## Specialized in following Tech Stacks
 
-- HTML  [![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- HTML
 - CSS
 - JavaScript
 - NodeJS
