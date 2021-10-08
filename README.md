@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, 👋 I'm Akhil Kumar Adepu. I belong to Korutla, Telangana.
 
-<!--
-**akhiladepu/akhiladepu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electronics and Communication graduate, now pursuing Full-Stack Web Development course at Masai School. I'm passionate and enthusiastic about building new products that will solve some real time problems.
+
+## Specialized in following Tech Stacks
+
+- HTML  [![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)]
+- CSS
+- JavaScript
+- NodeJS
+- Express
+- MongoDB
+- React
+- Redux 
+
+## Reach me at:
+(akhil9394021176@gmail.com)
+
+## Connect with me:
+(https://www.linkedin.com/in/akhil-kumar-adepu-a72b9616a/)
