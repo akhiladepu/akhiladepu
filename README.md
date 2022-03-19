@@ -24,3 +24,6 @@ I'm an Electronics and Communication graduate, now pursuing Full-Stack Web Devel
 
 ## Connect with me:
 (https://www.linkedin.com/in/akhil-kumar-adepu-a72b9616a/)
+
+## Git
+[![Akhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=akhiladepu)]
