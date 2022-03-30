@@ -17,6 +17,7 @@ I'm an Electronics and Communication graduate, now pursuing Full-Stack Web Devel
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" style="width:48px; height:48px" alt="Cypress"/>
 </p></span>
 
 ## Reach me at:
