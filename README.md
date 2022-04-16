@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer.</h3>
 
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/28/000000/user-male-circle--v2.png"/> About Me </p> 
 <p>
 I'm an Electronics and Communication graduate, pursued Full-Stack Web Development course at Masai School. 
 I'm passionate and enthusiastic about building new products that will solve some real time problems.
@@ -16,7 +16,7 @@ I'm passionate and enthusiastic about building new products that will solve some
 
 <br/>
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/28/000000/source-code.png"/> Languages and Tools:</p> 
 
 <span><p align="left">
   <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
@@ -48,7 +48,7 @@ I'm passionate and enthusiastic about building new products that will solve some
 <img alt="Akhil Kumar Adepu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akhiladepu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 <br/>
 
-## Connect with me:
+## :handshake: Connect with me:
 <p align="left">
 
 <a href = "mailto:akhil9394021176@gmail.com"><img src="https://img.icons8.com/fluent/42/000000/gmail.png"/></a>
