@@ -18,39 +18,34 @@ I'm passionate and enthusiastic about building new products that will solve some
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 
-<span><p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" style="width:48px; height:48px" alt="Cypress"/>
+<span><p align="left">
+  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
+  <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" style="width:60px; height:60px" alt="Cypress"/>
 </p></span>
 <br/>
 
 
 ## 📊 My Github Stats
-<p align="center">
-    <a href="https://github.com/akhiladepu/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akhil Kumar Adepu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiladepu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-  <br/>
-    <a href="https://github.com/akhiladepu/github-readme-stats"><img alt="Akhil Kumar Adepu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhiladepu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/akhiladepu/github-readme-stats"><img alt="Akhil Kumar Adepu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiladepu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
+
+<img alt="Akhil Kumar Adepu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiladepu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akhil Kumar Adepu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiladepu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+
+<img alt="Akhil Kumar Adepu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhiladepu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-<a href="https://github.com/akhiladepu/github-readme-activity-graph"><img alt="Akhil Kumar Adepu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akhiladepu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
+<img alt="Akhil Kumar Adepu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akhiladepu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 <br/>
 
 ## Connect with me:
