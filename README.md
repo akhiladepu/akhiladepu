@@ -24,12 +24,15 @@ I'm passionate and enthusiastic about building new products that will solve some
   <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
   <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://user-images.githubusercontent.com/81949743/169054466-56d74e78-ccc2-4398-80d5-35af9a44dd58.png" style="width:60px; height:60px" alt="Express"/>
   <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
   <img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
-  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" style="width:60px; height:60px" alt="Cypress"/>
+  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" style="width:60px; height:60px" alt="Cypress"/>  
+  
+  
 </p></span>
 <br/>
 
