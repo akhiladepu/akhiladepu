@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhil Kumar Adepu</h1>
-<h3 align="center">Full Stack Developer.</h3>
+<h3 align="center">Full Stack Web Developer.</h3>
 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/28/000000/user-male-circle--v2.png"/> About Me </p> 
