@@ -30,7 +30,8 @@ I'm passionate and enthusiastic about building new products that will solve some
   <img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
-  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" style="width:60px; height:60px" alt="Cypress"/>  
+  <img src="https://user-images.githubusercontent.com/81949743/160779117-477e2594-f5e0-4811-9118-866432fb9557.svg" width="60" height="60" alt="Cypress" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="60" alt="Tailwind CSS" />
   
   
 </p></span>
