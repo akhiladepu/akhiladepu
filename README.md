@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhil Kumar Adepu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 height=30>, I'm Akhil Kumar Adepu</h1>
 <h3 align="center">Full Stack Web Developer.</h3>
 
 
