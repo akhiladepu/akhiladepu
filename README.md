@@ -10,7 +10,7 @@ I'm passionate and enthusiastic about building new products that will solve some
 
 - 👨‍💻 My Portfolio - [akhiladepu.in](https://akhiladepu.in/)
 
-- 🔭 I’m currently working on [My-Drive](https://github.com/masai14/masai-drive)
+- 🔭 I’m currently learning [System Design](https://www.geeksforgeeks.org/getting-started-with-system-design/)
 
 - 📫 Contact me here - <a href="mailto:akhil9394021176@gmail.com" alt="#">akhil9394021176@gmail.com</a>
 
