@@ -36,7 +36,8 @@
 ## 📊 My Github Stats
 
 <div style="display:flex; flex-wrap: wrap; gap:10px; align-items:center; justify-content:center">
-<img alt="Akhil Kumar Adepu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiladepu&langs_count=3&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width:0px" />
+<img alt="Akhil Kumar Adepu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiladepu&langs_count=3&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width:280px" />
+
 
 <img title="Streak Status" alt="Akhil Kumar Adepu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiladepu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" style="width:280px" />
 
