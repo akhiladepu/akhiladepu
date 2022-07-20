@@ -41,7 +41,7 @@
 
 <img title="Streak Status" alt="Akhil Kumar Adepu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiladepu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" style="width:275px" />
 
-<img alt="Akhil Kumar Adepu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhiladepu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="width:275px" />
+<img alt="Overall Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhiladepu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="width:275px" />
 
 </div>
 
