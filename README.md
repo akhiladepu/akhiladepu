@@ -5,7 +5,7 @@
 
 <p>I'm an Electronics and Communication graduate, pursued Full-Stack Web Development course at Masai School. I'm passionate and enthusiastic about building new products that will solve some real time problems.</p>
 
-- 👨‍💻 My Portfolio - [akhiladepu.in](https://akhiladepu.in/)
+- 👨‍💻 My Portfolio - [check my Portfolio here](https://akhil-kumar-adepu-portfolio.vercel.app/)
 
 - 📫 Contact me here - <a href="mailto:akhil9394021176@gmail.com" alt="#">akhil9394021176@gmail.com</a>
 
